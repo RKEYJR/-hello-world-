@@ -1,2 +1,2 @@
 # -hello-world-
-my first repository
+Hello my name is Robert and this is my first repository for my python class.
